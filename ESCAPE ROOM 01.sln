@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptableObject-Architecture", "ScriptableObject-Architecture.csproj", "{4b411857-0166-1453-5b5c-9ad31152b8d1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e6a48c78-db4f-696e-3d0c-d7bf82f4fd95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptableObject-Architecture.Editor", "ScriptableObject-Architecture.Editor.csproj", "{7a26479c-7afd-372d-c60c-cdae5af109cd}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4b411857-0166-1453-5b5c-9ad31152b8d1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4b411857-0166-1453-5b5c-9ad31152b8d1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e6a48c78-db4f-696e-3d0c-d7bf82f4fd95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e6a48c78-db4f-696e-3d0c-d7bf82f4fd95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7a26479c-7afd-372d-c60c-cdae5af109cd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7a26479c-7afd-372d-c60c-cdae5af109cd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
